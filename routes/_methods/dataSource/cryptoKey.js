@@ -14,6 +14,6 @@ Wd3bmEVCme8pAiA0zGB4BmFTZiCNbZrwdZHSd8JzrexoTTGdIRWsiPFE0QIgbJ4B
 -----END RSA PRIVATE KEY-----`;
 //模块导出
 module.exports ={
-  prikey:PrivateKey,
-  pubkey:PublicKey
-}
+	prikey:PrivateKey,
+	pubkey:PublicKey
+};
